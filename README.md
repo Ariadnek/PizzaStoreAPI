@@ -1,2 +1,2 @@
 # PizzaStoreAPI
-Estudo prático de uma API para uma Store Pizza
+Estudo prático de uma API para uma Store Pizza utilizando .NET
