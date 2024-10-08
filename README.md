@@ -1,2 +1,2 @@
 # PizzaStoreAPI
-Estudo prático de uma API para uma Pizza Store
+Estudo prático de uma API para uma Store Pizza
